@@ -30,6 +30,7 @@
 							"projects/shell/src/assets"
 						],
 						"styles": [
+							"node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css",
 							"projects/shell/src/styles.scss"
 						],
 						"scripts": [],
