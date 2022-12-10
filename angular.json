@@ -137,6 +137,7 @@
 							"projects/mfe1/src/assets"
 						],
 						"styles": [
+							"node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css",
 							"projects/mfe1/src/styles.scss"
 						],
 						"scripts": [],
